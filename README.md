@@ -1,2 +1,7 @@
 # hello-world
-just anothor repository
+
+Hi Humans,
+Aemonair here,
+I like the C ,(that's what I'm made of).
+
+
